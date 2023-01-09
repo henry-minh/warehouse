@@ -11,6 +11,7 @@ Build the project.
 Run "server" executable using virutal machine.
 Run "client" executable using virutal machine.
 
+Project Report: https://docs.google.com/document/d/1BMEe1bzSMwK547CTatxa7lRXq1Dsm35dmn19dI9YdG8/edit?usp=sharing
 
 Authors:
 Brandon Atkins - 101121680
