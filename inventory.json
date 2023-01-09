@@ -1,0 +1,32 @@
+{
+   "products": [
+      {
+         "product": "Beer",
+         "amount": 556
+      },
+      {
+         "product": "Wine",
+         "amount": 703
+      },
+      {
+         "product": "Champagne",
+         "amount": 924
+      },
+      {
+         "product": "Vodka",
+         "amount": 992
+      },
+      {
+         "product": "Rum",
+         "amount": 817
+      },
+      {
+         "product": "Rye",
+         "amount": 644
+      },
+      {
+         "product": "Tequila",
+         "amount": 278
+      }
+   ]
+}

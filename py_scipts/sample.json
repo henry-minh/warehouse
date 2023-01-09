@@ -1,0 +1,142 @@
+{
+    "orders": [
+        {
+            "customer": "Tristan",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Beer",
+                    "quantity": 1
+                },
+                {
+                    "item": "Beer",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "customer": "Brandon",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Rum",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "customer": "Tristan",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Tequila",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "customer": "Brandon",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Champagne",
+                    "quantity": 4
+                },
+                {
+                    "item": "Rum",
+                    "quantity": 4
+                },
+                {
+                    "item": "Rum",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "customer": "Chris",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Tequila",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "customer": "Brandon",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Beer",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "customer": "Brandon",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Wine",
+                    "quantity": 2
+                },
+                {
+                    "item": "Beer",
+                    "quantity": 5
+                },
+                {
+                    "item": "Vodka",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "customer": "Henry",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Wine",
+                    "quantity": 2
+                },
+                {
+                    "item": "Wine",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "customer": "Chris",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Rum",
+                    "quantity": 1
+                },
+                {
+                    "item": "Rum",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "customer": "Tristan",
+            "price": 0,
+            "prime": "false",
+            "item": [
+                {
+                    "item": "Champagne",
+                    "quantity": 5
+                }
+            ]
+        }
+    ]
+}
